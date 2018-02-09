@@ -1,5 +1,5 @@
 # Uninformed-Navigation-search
-Implements a search algorithm that can find a route between any two cities.
+Implements Uniform Cost Search algorithm that can find an optimal route between any two cities.
 Program name is find_route.py and it will take three command line arguments as follows:
 
   find_route input_filename origin_city destination_city
