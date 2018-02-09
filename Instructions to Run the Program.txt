@@ -1,0 +1,14 @@
+The program is written in python language.
+
+The code consist of 3 functions: path_finder, fringe_sort and backtracking
+Path_finder at it roots works as the Graph search function.
+fringe sort uses insertion sort to sort the fringe.
+Backtracking tracks the parent node of the current node and generates the route.
+
+Information to Run file:
+python find_route.py input_file_name.txt Origin_city Destination_city
+
+example:
+python find_route.py input1.txt Luebeck Munich
+
+Note: the program is case sensitive
